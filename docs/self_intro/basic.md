@@ -15,5 +15,5 @@
 
 - 头像来自ff7ec 少年Sephiroth
 
-  <img src="D:\桌面\userMoran.github.io\docs\self_intro\images\sephi lily.png" style="zoom:75%;" />
+  <img src="./images/sephi lily.png" style="zoom:75%;" />
 
