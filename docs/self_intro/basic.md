@@ -15,5 +15,5 @@
 
 - 头像来自ff7ec 少年Sephiroth
 
-  <img src="./images/sephi lily.png" style="zoom:75%;" />
+  ![](./images/sephi_lily.png){width=50%}
 
