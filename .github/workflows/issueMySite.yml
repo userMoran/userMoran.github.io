@@ -10,7 +10,7 @@ permissions:
 jobs:
   deploy:
     # 创建一个 Ubuntu 容器
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       # 先打开 main 分支
       - uses: actions/checkout@v3
