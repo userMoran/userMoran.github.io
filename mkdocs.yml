@@ -73,7 +73,7 @@ repo_name: userMoran.github.io
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: userMoran CC-BY-4.0
+copyright: userMoran
 # [bottom-right corner]
 extra:
   # [添加社交网络图标和链接]
@@ -154,12 +154,14 @@ extra_css:
 
 # [Navigtion]
 nav:
-  - 关于本人:
+  - Me:
     - self_intro/basic.md
-  - 数字IC前端设计基础:
+  - 数字IC前端设计:
     - digital_IC_Design/chap1.md
   - 23-24春夏课程笔记:
     - 人工智能:
       - AI/chap1.md
+    - 数据分析与算法设计:
+      - Algorithm/chap1.md
     - 数字信号处理:
       - DSP/chap2.md

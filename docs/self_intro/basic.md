@@ -6,7 +6,14 @@
 
 - 目前感兴趣的研究方向是数字IC前端设计（正在学！）
 
-  
+
+
+
+
 
 - 课余喜欢云单机游戏再补票（因为没时间+游戏技术一般），最近沉迷FF7系列
+
+- 头像来自ff7ec 少年Sephiroth
+
+  <img src="D:\桌面\userMoran.github.io\docs\self_intro\images\sephi lily.png" style="zoom:75%;" />
 
